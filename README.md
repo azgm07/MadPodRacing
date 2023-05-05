@@ -2,6 +2,7 @@
 Bot Programming Challenge of codingame.com
 
 Silver to Gold:
+
 ![alt text](https://github.com/azgm07/MadPodRacing/blob/main/Screenshot%202023-05-05%20105811.png?raw=true)
 
 Tips and Tricks:
